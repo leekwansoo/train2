@@ -1,0 +1,9 @@
+uvicorn
+fastapi
+gunicorn
+motor
+pymongo
+pymongo[srv]
+python-dotenv
+python-multipart
+jinja2
